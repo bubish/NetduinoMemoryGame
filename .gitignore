@@ -43,6 +43,8 @@ ipch/
 *.ncb
 *.opensdf
 *.sdf
+*.dat
+*.smd
 
 # Visual Studio profiler
 *.psess
